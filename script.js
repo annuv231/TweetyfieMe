@@ -1,7 +1,7 @@
-"use-strict";
+// "use-strict";
 
-const verifyme = document.querySelector(".verifyMe");
+// const verifyme = document.querySelector(".verifyMe");
 
-verifyme.addEventListener("click", () => {
-  console.log("lol u are not verified yet haha");
-});
+// verifyme.addEventListener("click", () => {
+//   console.log("lol u are not verified yet haha");
+// });
