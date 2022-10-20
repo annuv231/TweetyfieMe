@@ -11,6 +11,7 @@
 Enable Developer Mode by clicking the toggle switch next to Developer mode.
 
 - Click the Load unpacked button and select the extension directory.
+
 ![image](https://user-images.githubusercontent.com/33187053/197034977-205d9630-58ba-4be8-a779-758fb4cdcb98.png)
 
 - Extensions page
