@@ -14,9 +14,6 @@ Enable Developer Mode by clicking the toggle switch next to Developer mode.
 
 ![image](https://user-images.githubusercontent.com/33187053/197034977-205d9630-58ba-4be8-a779-758fb4cdcb98.png)
 
-- Extensions page
-- Extensions page (`chrome://extensions`)
-
 
 > Ta-da! The extension has been successfully installed. Because no extension icons were included in the manifest, a generic icon will be created for the extension.Ta-da! The extension has been successfully installed. Because no extension icons were included in the manifest, a generic icon will be created for the extension.
 
