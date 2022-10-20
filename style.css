@@ -1,0 +1,38 @@
+body {
+  /* background-color: rgb(5, 142, 167); */
+  width: 200px;
+  height: 100px;
+}
+.buttons {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.status {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.status p {
+  font-size: 20px;
+}
+.btn {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 2px;
+  padding: 5px;
+  font-family: -apple-system, BlinkMacSystemFont, "Roboto", sans-serif;
+  border-radius: 10px;
+  /* border: 1 px solid; */
+  border-color: #1da1f2;
+
+  color: #1da1f2;
+  background: linear-gradient(180deg, #f5f8fa 0%, #f5f8fa 100%);
+  background-origin: border-box;
+}
+
+.btn:hover {
+  color: white;
+  background: #1da1f2;
+}

@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "TweetyFieMe",
+  "version": "1.0.0",
+  "description": "An extension which let you verify on twitter lol",
+  "icons": {
+    "128": "icon.png"
+  },
+  "action": {
+    "default_popup": "index.html",
+    "default_icon": "icon.png"
+  }
+}
