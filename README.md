@@ -1,5 +1,5 @@
 
-## ##### **Loading an unpacked extension**
+## **Loading an unpacked extension**
 *To load an unpacked extension in developer mode:*
 
 - Go to the Extensions page by entering `chrome://extensions` in a new tab. (By design `chrome:// URLs` are not linkable.)
