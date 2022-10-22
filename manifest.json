@@ -7,14 +7,14 @@
     "128": "icon.png"
   },
   "action": {
-    "default_popup": "popup.html",
+    // "default_popup": "popup.html",
     "default_icon": "icon.png"
   },
   "host_permissions": ["https://twitter.com/*"],
   "content_scripts": [
     {
       "matches": ["https://twitter.com/*"],
-      "css": ["override.css"],
+      // "css": ["override.css"],
       "js": ["verify.js"],
       "run_at": "document_start"
     }

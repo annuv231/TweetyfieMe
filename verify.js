@@ -11,8 +11,7 @@ const addBlueTick = () => {
     });
 };
 
-//since twitter dont load pages at once so its hard to get all classes. I added setTimeout so I can load as many as classes I can
-// setInterval
+//since twitter doesnt load pages at once so its hard to get all classes. I added setInterval so I can load as many as classes I can
 setInterval(() => {
   addBlueTick();
 }, 1000);
