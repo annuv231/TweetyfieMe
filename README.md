@@ -1,4 +1,4 @@
-#How to use this Extension:
+# How to use this Extension:
 
 ## **Steps:**
  1. Download the repository 
