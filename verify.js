@@ -1,6 +1,8 @@
 "use-strict";
 
 const addBlueTick = () => {
+  let num = Math.floor(Math.random() * 10);
+  console.log("test" + num);
   document
     .querySelectorAll(
       ".css-901oao.r-vlxjld.r-xoduu5.r-18u37iz.r-1q142lx.r-37j5jr.r-a023e6.r-16dba41.r-rjixqe.r-bcqeeo.r-qvutc0"
